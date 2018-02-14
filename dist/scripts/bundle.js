@@ -9212,7 +9212,6 @@ return jQuery;
 
 },{}],2:[function(require,module,exports){
 $ = jQuery = require('jquery');
-
 var App = console.log("hello world from brow4serify");
 
 module.exports = App;
