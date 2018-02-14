@@ -1,0 +1,25 @@
+{
+  "name": "psadmin",
+  "version": "1.0.0",
+  "description": "pluralsight react / flux application tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urvaius/psadmin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urvaius/psadmin/issues"
+  },
+  "homepage": "https://github.com/urvaius/psadmin#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-open": "^1.0.0",
+    "jscs": "^3.0.7"
+  }
+}
